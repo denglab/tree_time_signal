@@ -12,7 +12,7 @@ Subtrees with strong temporal signals
 
 "threshold" indicates the minimum squared coefficient (R2) of either the Spearman's or the Pearson's correlation;
 
-"sources" indicates if wants to calculate simpson index of sources within a internal node;
+"sources" indicates if wants to calculate simpson index of sources within a internal node, default is "none";
 
 "simpson_threhold" indicates the minimum value of simpson index.
 
