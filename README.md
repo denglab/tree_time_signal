@@ -5,7 +5,7 @@ Scan a phylogenetic tree and find subtrees with strong temporal siganls
 A rooted phylogenetic tree
 
 # Output
-Subtrees with strong time signals
+Subtrees with strong temporal signals
 
 # Parameters
 size indicates the minimum number of leaves within a internal node;
