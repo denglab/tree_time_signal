@@ -1,5 +1,5 @@
 # Usage
-Scan a phylogenetic tree and find subtrees with strong temporal siganls
+Scan a phylogenetic tree and find subtrees with strong temporal siganls.
 
 # Input
 A rooted phylogenetic tree
